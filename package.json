@@ -1,6 +1,6 @@
 {
   "name": "save-actions",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "MeiyoDev <meiyodev@gmail.com>",
   "description": "Runs the specified Atom or system shell commands before or after saving a file.",
   "keywords": [
