@@ -1,0 +1,24 @@
+{
+  "name": "save-actions",
+  "version": "0.0.0",
+  "author": "MeiyoDev <meiyodev@gmail.com>",
+  "description": "Runs the specified Atom or system shell commands before or after saving a file.",
+  "keywords": [
+    "save",
+    "hook",
+    "run",
+    "exec",
+    "command",
+    "action",
+    "shell",
+    "system",
+    "os"
+  ],
+  "repository": "https://github.com/MeiyoDev/atom.save-actions",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "main": "./lib/save-actions"
+}
